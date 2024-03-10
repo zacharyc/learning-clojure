@@ -1,1 +1,1 @@
-# learning-closure
+# learning-clojure
