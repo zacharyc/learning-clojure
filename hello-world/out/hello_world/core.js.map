@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/zacharyc\/projects\/learning-clojure\/hello-world\/out\/hello_world\/core.js","sources":["core.cljs"],"lineCount":9,"mappings":";AAAA;;AAEA,4BAAA,5BAACA;AAED,2BAAA,3BAAMC,8DAASC,EAAEC;AAAjB,AACE,kBAAA,VAAG,CAAGD,IAAEC","names":["cljs.core\/println","hello-world.core\/average","a","b"]}
